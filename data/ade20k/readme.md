@@ -13,6 +13,8 @@ See get_full_data.py for details. <br />
 
 In order to get same files folder for our 150 classes one, please run get_files150.py. And files150 folder is a placehoder <br />
 
+If you only want to get same structrue as full_data just for a specific scene (say bedroom), run get_scene_data.py <br />
+
 
 
 
