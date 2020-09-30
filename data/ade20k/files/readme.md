@@ -1,5 +1,5 @@
 These are files containing statistics for ADE (3148 class).
-
+(I did not upload those files, please run process_index_ade20k.ipynb to get them)
 
 
 All files within this folder do not belong to original dataset. These files are results of preprocessing index_ade20k.mat 
