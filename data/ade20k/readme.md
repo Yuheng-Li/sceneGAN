@@ -1,5 +1,7 @@
 This is the order you should check the code and files <br />
 
+Originally I download ADE dataset from https://groups.csail.mit.edu/vision/datasets/ADE20K/ <br />
+and there are only one images folder and a mat file inside it. <br />
 
 First check files folder to process mat file and get all statistic files we need. <br />
 
