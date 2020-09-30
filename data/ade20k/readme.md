@@ -9,6 +9,7 @@ Later I realiszed that there is another version of ADE (http://sceneparsing.csai
 But it does not have instance annotation and images are in small resolution. So I convert ADE(3184) into 150 classes. <br />
 See get_full_data.py for details. <br />
 
+In order to get same files folder for our 150 classes one, please run get_files150.py. And files150 folder is a placehoder <br />
 
 
 
