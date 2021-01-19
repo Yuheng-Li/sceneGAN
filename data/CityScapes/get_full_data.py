@@ -71,7 +71,7 @@ def get_files(split, file_type):
             if basename.endswith(keywords):
                 filename = os.path.join(root, basename)
                 filenames.append(filename)
-                
+    filenames.sort()            
     return filenames
 
 
